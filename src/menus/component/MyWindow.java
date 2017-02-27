@@ -7,7 +7,7 @@ import javax.swing.JMenuItem;
 public class MyWindow {
 	public static void main(String[] args) {
 		
-		
+		System.out.println("hello");
 	}
 	
 	public void createWindow(){
